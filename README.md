@@ -35,7 +35,7 @@
 <a href="https://www.linkedin.com/in/ashfaq-ahmad-156504255" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashfaq-ahmad" height="30" width="40" /></a>
 <a href="https://www.facebook.com/syedishfaq.ahmad.31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="syed ashfaq ahmad" height="30" width="40" /></a>
 <a href="https://instagram.com/syedashfaq.ahmad?igshid=ZDdkNTZiNTM=" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="syed ashfaq ahmad" height="30" width="40" /></a>
-<a href=" https://www.youtube.com/channel/UCd2XioPxvHZlfWZaGI8X-_w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucd2xiopxvhzlfwzagi8x-_w" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCd2XioPxvHZlfWZaGI8X-_w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucd2xiopxvhzlfwzagi8x-_w" height="30" width="40" /></a>
 </p>
 
 <br/>
