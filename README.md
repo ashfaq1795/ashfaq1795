@@ -1,4 +1,4 @@
-## Hello World <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="29px">, I'm Ashfaq Ahma 
+## Hello World <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="29px">, I'm <a href="https://www.linkedin.com/in/ashfaq-ahmad-156504255"> Ashfaq Ahmad</a> 
 <br />
 <br />
 
