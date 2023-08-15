@@ -5,10 +5,10 @@
 <image align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 - I’m computer system engineer graduated from University of Engineering and Technology, Peshawar.
-- My interests include Fullstack web development, Data analytics, Machine learning and graphic designing. 
-- I’m currently learning Fullstack web development and data analytics.
-- I have done  many projects in web and data analytics, interested one could visit my github account.
-- As I continue on my development journey, I am eager to expand my knowledge and skills in web development, data analytics and machine learning. 
+- My interests include Fullstack web development. 
+- I’m currently working on the projects of Frontend web development.
+- I have done  many projects in web development, interested one could visit my github account.
+- As I continue on my development journey, I am eager to expand my knowledge and skills in web development. 
 - So i’m looking to collaborate on Frontend Projects.
 - I’m looking for help with Web Development Projects.
 - In my free time, I enjoy Playing cricket , watching past matches, spending time with friends.
