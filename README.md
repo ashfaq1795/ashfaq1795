@@ -5,11 +5,10 @@
 <image align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 - I’m computer system engineer graduated from University of Engineering and Technology, Peshawar.
-- My interests include Fullstack web development. 
-- I’m currently working on the projects of Frontend web development.
-- I have done  many projects in web development, interested one could visit my github account.
-- As I continue on my development journey, I am eager to expand my knowledge and skills in web development. 
-- So i’m looking to collaborate on Frontend Projects.
+- My interests include Networking, System Administration, Cloud Computing, and Web development. 
+- I’m currently working as an Assistant Manager - IT in Lucky Cement Limited.
+- I have done  many projects in web development, interested one could visit my github account. 
+- I am looking an opportunity for Networking / Systems Administration in a reputed organization.
 - I’m looking for help with Web Development Projects.
 - In my free time, I enjoy Playing cricket , watching past matches, spending time with friends.
 - Pronouns: He/Him
